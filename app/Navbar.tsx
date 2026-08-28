@@ -8,7 +8,6 @@ export const Navbar: React.FC = () => {
     // Example: 923001234567 (Pakistan ke liye)
     const whatsappNumber = "923001234567";
 
-    // Jo message aap chahte hain ke user jab click kare to auto-type ho jaye
     const whatsappMessage = "Hi, I would like to book an appointment!";
 
 
