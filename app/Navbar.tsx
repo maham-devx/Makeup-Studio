@@ -4,8 +4,7 @@ import React from 'react';
 import Link from 'next/link';
 
 export const Navbar: React.FC = () => {
-    // Apna WhatsApp number yahan likhein (Country code ke sath, bina + ya 00 ke)
-    // Example: 923001234567 (Pakistan ke liye)
+
     const whatsappNumber = "923001234567";
 
     const whatsappMessage = "Hi, I would like to book an appointment!";
