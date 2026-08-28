@@ -8,7 +8,7 @@ export default function AboutUsSalon() {
         <section className="bg-white py-16 sm:py-24 px-4 sm:px-6 lg:px-8 border-b border-rose-50">
             <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
 
-                {/* Left Column: Beautiful Salon Image */}
+
                 <div className="relative">
                     <div className="relative h-[380px] sm:h-[480px] w-full rounded-3xl overflow-hidden shadow-2xl border border-gray-100 group">
                         <img
