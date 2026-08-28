@@ -11,7 +11,7 @@ export const Navbar: React.FC = () => {
     // Jo message aap chahte hain ke user jab click kare to auto-type ho jaye
     const whatsappMessage = "Hi, I would like to book an appointment!";
 
-    // Link generate karna
+
     const whatsappLink = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}`;
 
     return (
